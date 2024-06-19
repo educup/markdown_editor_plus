@@ -1,5 +1,7 @@
 library markdown_editor_plus;
 
+export 'src/src.dart';
+
 export 'widgets/markdown_auto_preview.dart';
 export 'widgets/markdown_parse.dart';
 export 'widgets/markdown_toolbar.dart';
